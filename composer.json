@@ -4,6 +4,7 @@
     },
     "require-dev" : {
         "behat/behat": "2.5.*@stable",
+        "behat/mink": "1.6.0",
         "phpspec/phpspec": "2.0.*@dev"
     },
 
